@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shivbt
+- 👋 Hi, I’m Shiv
 - 👀 I’m interested in virtualization technologies and broadly in systems.
 - 🌱 I’m currently learning about `containers` and other virtual environments.
 - 💞️ I’m looking to collaborate on `containers` related projects involving `CRIU` and `runc`.
-- 📫 Reach me at jadnaps95@gmail.com
+- 📫 Reach me at jadnaps95[AT]gmail[DOT]com
 
 <!---
 shivbt/shivbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
