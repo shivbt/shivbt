@@ -2,7 +2,7 @@
 - 👀 I’m interested in virtualization technologies and broadly in systems.
 - 🌱 I’m currently learning about `containers` and other virtual environments.
 - 💞️ I’m looking to collaborate on `containers` related projects involving `CRIU` and `runc`.
-- 📫 Reach me at jadnaps95[AT]gmail[DOT]com
+- 📫 Reach me at shivbt[AT]duck[DOT]com
 - Academic Website: https://www.cse.iitk.ac.in/users/shivbt
 
 <!---
